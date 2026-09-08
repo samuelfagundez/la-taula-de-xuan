@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/zky2huJKYirTgAiQ6",
+    "expandedUrl": "https://www.google.com/maps/place/La+Taula+de+Xuan/@39.4797935,-0.3338737,17z/data=!3m1!4b1!4m6!3m5!1s0xd60487bc1a49f41:0x8e39adb10f385839!8m2!3d39.4797894!4d-0.3312934!16s%2Fg%2F11bx562zv5?entry=tts&g_ep=EgoyMDI2MDkwMi4wIPu8ASoASAFQAw%3D%3D&skid=54c53fe8-80ae-437c-9573-8bf2f57cf85c&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=10248413403034441785&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJQZ-kwXtIYA0ROVg4D7GtOY4",
+    "featureId": "0xd60487bc1a49f41:0x8e39adb10f385839",
+    "gmapsPlaceRef": "/g/11bx562zv5",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-08T22:04:12.295Z"
+  },
+  "name": "La Taula de Xuan",
+  "rating": {
+    "score": 4.5,
+    "count": 494
+  },
+  "phone": "+34 622 05 11 21",
+  "phoneNational": "622 05 11 21",
+  "hours": {
+    "weekly": [
+      "lunes: 8:00–14:30",
+      "martes: 8:00–14:30",
+      "miércoles: 8:00–17:00",
+      "jueves: 8:00–14:30",
+      "viernes: 8:00–14:30",
+      "sábado: 8:30–14:00",
+      "domingo: Cerrado"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 14,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 14,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 14,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 14,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 8,
+          "minute": 30
+        },
+        "close": {
+          "day": 6,
+          "hour": 14,
+          "minute": 0
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [],
+  "pricePerPerson": "1 € – 10 €",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "links": {
+    "website": "https://es.restaurantguru.com/Taula-De-Xuan-Valencia",
+    "menu": null,
+    "reservations": "https://es.restaurantguru.com/Taula-De-Xuan-Valencia",
+    "reservable": true,
+    "googleMaps": "https://maps.google.com/?cid=10248413403034441785&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd60487bc1a49f41:0x8e39adb10f385839!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd60487bc1a49f41:0x8e39adb10f385839!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd60487bc1a49f41:0x8e39adb10f385839!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd60487bc1a49f41:0x8e39adb10f385839!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "C/ del Dr. Álvaro López, 41, Poblats Marítims, 46011 València, Valencia",
+    "short": "C. del Dr. Álvaro López, 41, Valencia",
+    "components": {
+      "number": "41",
+      "street": "Carrer del Doctor Álvaro López",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46011"
+    }
+  },
+  "location": {
+    "lat": 39.4797894,
+    "lng": -0.33129339999999996
+  },
+  "primaryType": "restaurant",
+  "primaryTypeLabel": "Restaurante",
+  "types": [
+    "restaurant",
+    "bar_and_grill",
+    "sandwich_shop",
+    "bar",
+    "spanish_restaurant",
+    "coffee_shop",
+    "cafe",
+    "italian_restaurant",
+    "food_store",
+    "european_restaurant",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Admite reservas",
+    "Comer en el local",
+    "Para llevar",
+    "Recogida en la puerta",
+    "Terraza / asientos fuera",
+    "Menú infantil",
+    "Apto para niños",
+    "Apto para grupos",
+    "Se admiten perros",
+    "Aseos",
+    "Desayunos",
+    "Brunch",
+    "Comidas",
+    "Cafés",
+    "Postres",
+    "Cerveza",
+    "Vino"
+  ],
+  "accessibility": [
+    "Aparcamiento accesible",
+    "Entrada accesible",
+    "Aseo accesible",
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": {
+    "freeParkingLot": true,
+    "freeStreetParking": true
+  },
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 2753,
+      "heightPx": 2064,
+      "attribution": "La Taula de Xuan",
+      "attributionUri": "https://maps.google.com/maps/contrib/107134858988520304402"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 2930,
+      "heightPx": 3369,
+      "attribution": "La Taula de Xuan",
+      "attributionUri": "https://maps.google.com/maps/contrib/107134858988520304402"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Omar Cabezuelo",
+      "attributionUri": "https://maps.google.com/maps/contrib/118305763040716688379"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Jie Zhou",
+      "attributionUri": "https://maps.google.com/maps/contrib/105676872569520597250"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Omar Cabezuelo",
+      "attributionUri": "https://maps.google.com/maps/contrib/118305763040716688379"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "La Taula de Xuan",
+      "attributionUri": "https://maps.google.com/maps/contrib/107134858988520304402"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 1656,
+      "heightPx": 2147,
+      "attribution": "La Taula de Xuan",
+      "attributionUri": "https://maps.google.com/maps/contrib/107134858988520304402"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "antonio flores",
+      "attributionUri": "https://maps.google.com/maps/contrib/111168667436612661751"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 828,
+      "heightPx": 1472,
+      "attribution": "La Taula de Xuan",
+      "attributionUri": "https://maps.google.com/maps/contrib/107134858988520304402"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 1655,
+      "heightPx": 2668,
+      "attribution": "La Taula de Xuan",
+      "attributionUri": "https://maps.google.com/maps/contrib/107134858988520304402"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Omar Cabezuelo",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKy0rjjVA3XpXCR7vOi-kLwNcwoGTohYft3ISoNit2Ptj8TGzY=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/118305763040716688379/reviews",
+      "rating": 5,
+      "text": "Un bar increíble donde almorzar de categoría. Bocadillos de calidad con ingredientes frescos y deliciosos. El servicio es estupendo, con educación, alegría y una buena atmósfera.\nSitios así es difícil de encontrar hoy en día y más que te ofrezca un producto de calidad a un precio muy razonable. A destacar los bocadillos de carne de caballo los miércoles y los especiales de la carta.\nSin lugar a dudas lo mejor que tiene Valencia en el esmorzar valencià de toda la vida con un pan digno de premio y cafés que dan gozo tomarlos.",
+      "language": "es",
+      "relativeTime": "Hace 6 meses",
+      "publishTime": "2026-02-18T13:37:52.624918948Z"
+    },
+    {
+      "author": "Marina Rubio",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocK6-Vhhz6GH7a_BIPDJCn63NTTMZ2BiE5E1JOMxQXz75eRrI10F=s128-c0x00000000-cc-rp-mo-ba3",
+      "authorUri": "https://www.google.com/maps/contrib/116749695085606774281/reviews",
+      "rating": 5,
+      "text": "Vinimos a probar sus almuerzos por las buenas reseñas que tienen y no defraudó. El pan de los bocatas estaba muy bueno, algo que suele fallar en otros bares, y las combinaciones de los bocatas muy muy ricas (el valenciano sobre todo). Además de todo eso, cuentan con un personal encantador, gente majísima. Volveremos a probar más bocatas o a repetir el valenciano pronto.",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-05-11T16:58:36.071391572Z"
+    },
+    {
+      "author": "Alvaro Morales",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJ-z49IWVW-hhxytFag1kwzfh88hqMNPoxeFVN-Y-M6hPQoPw=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/107709334740352030922/reviews",
+      "rating": 5,
+      "text": "Bar de los de toda la vida, sin postureo y siguiendo la tradición. El bocadillo espectacular, pero el cremaet es otro nivel, artesano y quemado como toca. Si buscas un almuerzo de pueblo auténtico, es aquí.",
+      "language": "es",
+      "relativeTime": "Hace 3 meses",
+      "publishTime": "2026-05-13T09:07:09.255324403Z"
+    },
+    {
+      "author": "Juasa 05",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKg3P4yNMXfaH0ZULjcaYyIX7GEjhbk7vDmfNI9YIk9i94p9Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/118175398661441037245/reviews",
+      "rating": 5,
+      "text": "Tras 14 años probando almuerzos y valorando los mejores bares, he de decir que \"La Taula\" es el mejor en cuanto a calidad y mantienen un precio muy competitivo.\nLos que sabemos de almuerzos, sabemos que el pan es el 80% del bocadillo, y aquí conservan un pan de horno tradicional del barrio del Cabanyal que les suministran cada mañana.\n\nHace poco vendieron el bar a unos nuevos profesionales. Esto siempre da miedo por si se pierde la magia que ya tenía, en este caso, he de decir que el cambio ha sido para mejor, algo casi imposible en hostelería!\nHacen unas combinaciones de sabores en los bocadillos que te dejan siempre con ganas de más!\n\nPara continuar, pasamos a la atención al cliente, Dani y Giovanna son unos auténticos profesionales. Siempre te reciben con una sonrisa y están para lo que necesites. Muy rápidos y profesionales, cosas que no se encuentran en un bar hoy en día.\n\nLos cremaets, el gran finale, de la mano de Giovanna, de las mejores recetas que he probado y en su auténtica proporción de 60-40 o 70-30, depende de como lo pidas.\n\nEn definitiva, un sitio al que no dejaré de venir, un auténtico bar que mantiene las raíces del esmorzaret valencià! Gracias!",
+      "language": "es",
+      "relativeTime": "Hace 3 meses",
+      "publishTime": "2026-05-23T10:46:18.271755858Z"
+    },
+    {
+      "author": "Señor Panceto",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjWBPZGz_5ZOUIqasCbhPJIJecXPR7MAob9bVnrU5gFA5SF3lsM=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/115337949466956086705/reviews",
+      "rating": 1,
+      "text": "El peor bajón de calidad en un traspaso\nQue he visto en mi vida, siempre he pedido Valentín un chivito de pechuga, anteriormente al abrir el bocata veías 3 pechugas alrededor de 100g quizá 90g lo cual no está mal, en la actualidad volví a ir a regañadientes y con razón. Al abrir mi bocata de toda la vida había dos trocitos de pechuga apenas 30g en mi bocadillo de mayonesa ya que esta brillaba por la cantidad absurda para matar el mal sabor de los ingredientes. Imagina si es triste la situación, por favor esto ya no es lo que era ni de lejos. Un saludo",
+      "language": "es",
+      "relativeTime": "Hace 3 meses",
+      "publishTime": "2026-06-04T11:01:41.508461141Z"
+    }
+  ]
+}
