@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://samuelfagundez.github.io/la-taula-de-xuan/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-bocadillo-jamon.jpg</image:loc>
+      <image:title>Bocadillos de jamón con pan de horno tradicional en La Taula de Xuan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-fideua-marisco.jpg</image:loc>
+      <image:title>Fideuà de marisco recién hecha en La Taula de Xuan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-fachada.jpg</image:loc>
+      <image:title>Fachada de La Taula de Xuan en el barrio del Cabanyal, Valencia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-arroz-pollo.jpg</image:loc>
+      <image:title>Arroz al horno con pollo y judías de La Taula de Xuan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-bocadillo-pollo-huevo.jpg</image:loc>
+      <image:title>Bocadillo de pollo, huevo y bacon en La Taula de Xuan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-tortilla-patata.jpg</image:loc>
+      <image:title>Tortilla de patata jugosa de La Taula de Xuan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-tortilla-boniato.jpg</image:loc>
+      <image:title>Tortilla rellena con cebolla crujiente en La Taula de Xuan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-churros.jpg</image:loc>
+      <image:title>Porras recién hechas para desayunar en La Taula de Xuan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-cafe-bombon.jpg</image:loc>
+      <image:title>Café bombón servido en La Taula de Xuan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/la-taula-de-xuan/gallery/taula-de-xuan-sandwich-chocolate.jpg</image:loc>
+      <image:title>Sandwich dulce de chocolate y plátano en La Taula de Xuan</image:title>
+    </image:image>
+  </url>
+</urlset>
