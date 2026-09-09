@@ -8,15 +8,16 @@ export default function About() {
           <h2 className="font-display text-3xl font-semibold text-navy sm:text-4xl">
             Sobre nosotros
           </h2>
-          <p className="mt-5 text-lg leading-relaxed text-navy/80">
-            {content.description}
-          </p>
 
-          <div className="mt-6 flex items-center gap-2 text-navy">
+          <div className="mt-4 flex items-center gap-2 text-navy">
             <span className="text-amber-dark">★★★★★</span>
             <span className="font-semibold">{content.rating.value}</span>
             <span className="text-navy/60">· {content.rating.countDisplay}</span>
           </div>
+
+          <p className="mt-5 text-lg leading-relaxed text-navy/80">
+            {content.description}
+          </p>
         </div>
 
         <ul className="grid gap-4 self-start rounded-2xl border border-navy/10 bg-white/60 p-6">

@@ -23,49 +23,48 @@ export default function Gallery() {
 
   return (
     <section id="galeria" className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
-      <div className="mb-8 flex items-end justify-between">
-        <h2 className="font-display text-3xl font-semibold text-navy sm:text-4xl">
-          Galería
-        </h2>
-        <div className="hidden gap-2 sm:flex">
-          <button
-            type="button"
-            onClick={scrollPrev}
-            aria-label="Foto anterior"
-            className="flex h-10 w-10 items-center justify-center rounded-full border border-navy/20 text-navy transition-colors hover:border-amber hover:text-amber-dark"
-          >
-            ←
-          </button>
-          <button
-            type="button"
-            onClick={scrollNext}
-            aria-label="Foto siguiente"
-            className="flex h-10 w-10 items-center justify-center rounded-full border border-navy/20 text-navy transition-colors hover:border-amber hover:text-amber-dark"
-          >
-            →
-          </button>
+      <h2 className="mb-8 font-display text-3xl font-semibold text-navy sm:text-4xl">
+        Galería
+      </h2>
+
+      <div className="relative">
+        <div className="overflow-hidden" ref={emblaRef}>
+          <div className="flex gap-4">
+            {content.gallery.map((photo) => (
+              <div
+                key={photo.src}
+                className="min-w-[85%] shrink-0 sm:min-w-[45%] lg:min-w-[31%]"
+              >
+                <img
+                  src={assetUrl(photo.src)}
+                  alt={photo.alt}
+                  loading="lazy"
+                  className="aspect-[4/5] w-full rounded-2xl object-cover sm:aspect-[4/3]"
+                />
+              </div>
+            ))}
+          </div>
         </div>
+
+        <button
+          type="button"
+          onClick={scrollPrev}
+          aria-label="Foto anterior"
+          className="absolute left-2 top-1/2 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-navy/20 bg-cream/90 text-navy shadow-md backdrop-blur transition-colors hover:border-amber hover:text-amber-dark"
+        >
+          ←
+        </button>
+        <button
+          type="button"
+          onClick={scrollNext}
+          aria-label="Foto siguiente"
+          className="absolute right-2 top-1/2 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-navy/20 bg-cream/90 text-navy shadow-md backdrop-blur transition-colors hover:border-amber hover:text-amber-dark"
+        >
+          →
+        </button>
       </div>
 
-      <div className="overflow-hidden" ref={emblaRef}>
-        <div className="flex gap-4">
-          {content.gallery.map((photo) => (
-            <div
-              key={photo.src}
-              className="min-w-[78%] shrink-0 sm:min-w-[45%] lg:min-w-[31%]"
-            >
-              <img
-                src={assetUrl(photo.src)}
-                alt={photo.alt}
-                loading="lazy"
-                className="aspect-[4/3] w-full rounded-2xl object-cover"
-              />
-            </div>
-          ))}
-        </div>
-      </div>
-
-      <div className="mt-6 flex justify-center gap-2 sm:hidden">
+      <div className="mt-6 flex justify-center gap-2">
         {content.gallery.map((photo, i) => (
           <button
             key={photo.src}

@@ -15,9 +15,6 @@ export default function Hero() {
       <div className="absolute inset-0 bg-gradient-to-t from-navy/90 via-navy/50 to-navy/20" />
 
       <div className="relative mx-auto w-full max-w-6xl px-4 pb-16 pt-40 sm:px-6 sm:pb-20">
-        <p className="mb-3 inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 text-sm font-medium text-white backdrop-blur">
-          ★ {content.rating.value} · {content.rating.countDisplay}
-        </p>
         <h1 className="font-display max-w-2xl text-4xl font-semibold leading-tight text-white sm:text-5xl md:text-6xl">
           {content.name}
         </h1>
