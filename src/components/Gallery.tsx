@@ -22,7 +22,7 @@ export default function Gallery() {
   }, [emblaApi]);
 
   return (
-    <section id="galeria" className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
+    <section id="galeria" className="mx-auto max-w-6xl px-4 pb-16 pt-8 sm:px-6 sm:pb-24 sm:pt-12">
       <h2 className="mb-8 font-display text-3xl font-semibold text-navy sm:text-4xl">
         Galería
       </h2>
@@ -33,7 +33,7 @@ export default function Gallery() {
             {content.gallery.map((photo) => (
               <div
                 key={photo.src}
-                className="shrink-0 grow-0 basis-[78%] sm:basis-[42%] lg:basis-[27%]"
+                className="shrink-0 grow-0 basis-[90%] sm:basis-[45%] lg:basis-[27%]"
               >
                 <img
                   src={assetUrl(photo.src)}
