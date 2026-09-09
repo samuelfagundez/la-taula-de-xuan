@@ -1,5 +1,6 @@
 import { Helmet } from "react-helmet-async";
 import { content } from "../content";
+import { assetUrl } from "../lib/asset";
 
 export default function NotFound() {
   return (
@@ -16,7 +17,7 @@ export default function NotFound() {
           La página que buscas no existe o se ha movido.
         </p>
         <a
-          href="/"
+          href={assetUrl("/")}
           className="mt-2 rounded-full bg-amber px-6 py-3 text-sm font-semibold text-white hover:bg-amber-dark"
         >
           Volver al inicio
