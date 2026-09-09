@@ -33,7 +33,7 @@ export default function Gallery() {
             {content.gallery.map((photo) => (
               <div
                 key={photo.src}
-                className="min-w-[85%] shrink-0 sm:min-w-[45%] lg:min-w-[31%]"
+                className="shrink-0 grow-0 basis-[78%] sm:basis-[42%] lg:basis-[27%]"
               >
                 <img
                   src={assetUrl(photo.src)}
